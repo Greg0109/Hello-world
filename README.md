@@ -1,7 +1,7 @@
 
 # Hello World!
 
-> This is a hello world projec
+> This is a hello world project
 
 ## Built With
 
